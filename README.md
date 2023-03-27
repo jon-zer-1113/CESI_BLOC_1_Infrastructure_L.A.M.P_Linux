@@ -1754,5 +1754,5 @@ Les avantages sont nombreux
 Mise en place 
 Mettre en place un système de Load Balancing sur l’instance de votre serveur. L’outil haproxy
 permet d’atteindre ces objectifs.
-Cf. Annexe 2 – Schéma simplifié d’un système de Load Balancing
-Vous pouvez vous informer ici : https://linuxfr.org/forums/linux-general/posts/tuto-howto-ubuntu debian-load-balancing-redirection-vers-plusieurs-vhost-avec-haproxy
+
+( EN COURS DE MODIFICATION )
